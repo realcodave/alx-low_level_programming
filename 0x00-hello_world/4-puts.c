@@ -3,7 +3,7 @@
 /**
 * main - Entry point
 * 
-* Description: 'the program prints sequence of characters'
+* Description: 'the program'
 *
 * Return: Always 0 (Success)
 */
