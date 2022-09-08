@@ -5,6 +5,9 @@
  */
 int main(void)
 {
+/* 
+*puts is an easy way of outputting strings
+   */
 puts("\"Programming is like building a multilingual puzzle");
 /*
  * returning int 0
