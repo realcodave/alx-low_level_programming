@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * this is the main function that prints out strings of characters
+ *Description: this is the main function that prints out strings of characters
  */
 int main(void)
 {
