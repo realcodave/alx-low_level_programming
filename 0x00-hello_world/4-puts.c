@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * 
- * Description: 'the program prints sequence of characters'
- *
- * Return: Always 0 (Success)
+* main - Entry point
+* 
+* Description: 'the program prints sequence of characters'
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
