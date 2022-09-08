@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-/*
- *Description: this is the main function that prints out strings of characters
+/**
+ * main - Entry point
+ * 
+ * Description: 'the program prints sequence of characters'
+ * 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
