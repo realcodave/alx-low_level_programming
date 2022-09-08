@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/**
- * this is tge main function that prints out strings of characters
+/*
+  this is the main function that prints out strings of characters
  */
 int main(void)
 {
