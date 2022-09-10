@@ -13,7 +13,7 @@ char letter = 'a';
 char caps = 'A';
 while (letter <= 'z')
 {
-putchar(letter)
+putchar(letter);
 letter++;
 };
 while (caps <= 'Z')
