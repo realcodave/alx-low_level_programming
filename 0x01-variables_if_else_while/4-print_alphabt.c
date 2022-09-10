@@ -13,7 +13,7 @@ while (letter <= 'z')
 {
 if (letter == 'e' || letter == 'q')
 {
-continue;
+letter++;
 }
 else
 {
