@@ -15,9 +15,12 @@ if (letter == 'e' || letter == 'q')
 {
 continue;
 }
+else
+{
 putchar(letter);
 letter++;
-};
+}
+}
 putchar('\n');
 return (0);
 }
