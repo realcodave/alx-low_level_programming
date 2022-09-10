@@ -9,10 +9,10 @@
 */
 int main(void)
 {
-char letter ='a';
+char letter = 'a';
 while (letter <= 'z')
 {
-putchar(letter);
+putchar("%c\n",letter);
 letter++;
 };
 return (0);
