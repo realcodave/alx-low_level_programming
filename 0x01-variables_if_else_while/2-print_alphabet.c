@@ -14,5 +14,5 @@ while (letter <= 'z')
 {
 putchar(letter);
 letter++;
-}
+};
 }
