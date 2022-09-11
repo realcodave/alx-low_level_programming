@@ -11,8 +11,7 @@ int main(void)
 int num = 0;
 while (num <= 9)
 {
-char stringnum = num + '0';
-putchar(stringnum);
+putchar(num);
 num++;
 }
 putchar('\n');
