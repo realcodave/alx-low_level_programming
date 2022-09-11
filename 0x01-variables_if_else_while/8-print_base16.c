@@ -13,7 +13,7 @@ char letter = 'a';
 while (num <= 9)
 {
 putchar(num + '0');
-num ++;
+num++;
 }
 while (letter <= 'f')
 {
