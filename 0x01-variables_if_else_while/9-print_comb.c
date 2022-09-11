@@ -13,12 +13,12 @@ while (num <= 9)
 {
 if (num == 9)
 {
-num++
+num++;
 }
 else
 {
 putchar(num + '0');
-putchar('');
+putchar(' ');
 putchar(',');
 num++;
 }
