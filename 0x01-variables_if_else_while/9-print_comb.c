@@ -18,8 +18,8 @@ num++;
 else
 {
 putchar(num + '0');
-putchar(' ');
 putchar(',');
+putchar(' ');
 num++;
 }
 }
