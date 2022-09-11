@@ -13,6 +13,7 @@ while (num <= 9)
 {
 if (num == 9)
 {
+putchar(num + ' ');
 num++;
 }
 else
@@ -23,6 +24,5 @@ putchar(' ');
 num++;
 }
 }
-putchar('\n');
 return(0);
 }
