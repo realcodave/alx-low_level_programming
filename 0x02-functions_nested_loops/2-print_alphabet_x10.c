@@ -14,7 +14,6 @@ for (i = 0; i <= 9; i++)
 for (letter = 0; letter <= 'z'; letter++)
 {
 _putchar(letter);
-letter++;
 }
 _putchar('\n');
 }
