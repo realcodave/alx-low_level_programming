@@ -4,7 +4,7 @@
 * checking argument
 * Return: 0
 */
-int _islower(char c)
+int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
 {
