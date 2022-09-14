@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 * _islower – is alohabet lower
-* checking argument
+*@c checking argument
 * Return: 0
 */
 int _islower(int c)
