@@ -13,7 +13,7 @@ while (i <= 9)
 {
 while (letter <= 'z')
 {
-_putchar(c);
+_putchar(letter);
 letter++;
 }
 i++;
