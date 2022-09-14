@@ -11,7 +11,7 @@ int i;
 
 for (i = 0; i <= 9; i++)
 {
-for (letter = 0; letter <= 'z'; letter++)
+for (letter = 'a'; letter <= 'z'; letter++)
 {
 _putchar(letter);
 }
