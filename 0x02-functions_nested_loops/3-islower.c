@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _islower – is alohabet lower
+* _islower – is alphabet lower
 *@c checking argument
 * Return: 0
 */
