@@ -1,12 +1,12 @@
 #include "main.h"
 /**
-* _isupper - checks for uppercase.
-* @num: character to check.
-* Return: 1 if num is uppercase, otherwise return 0
+*_isupper - checks for uppercase.
+*@num: character to check.
+*Return: 1 if num is uppercase, otherwise return 0
 */
 int _isupper(int num)
 {
-if (num >= 0 && num <= 9)
+if (num >= '0' && num <= '9')
 {
 return (1);
 }
