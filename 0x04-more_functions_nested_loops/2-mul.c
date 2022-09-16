@@ -8,5 +8,6 @@
 */
 int mul(int a, int b)
 {
-printf("%d", (a * b));
+int c = a * b;
+printf("%d", c);
 }
