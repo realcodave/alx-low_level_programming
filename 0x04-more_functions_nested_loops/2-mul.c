@@ -1,6 +1,7 @@
 #include "main.h"
 /**
-* main - check the code
+* *_mul - multiplies two number.
+*@num: character to check.
 * description: multiply two digit
 * Return: Always 0.
 */
