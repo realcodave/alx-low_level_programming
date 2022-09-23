@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* main - check the code
-* _purchar - 0 - 9
-* Return: Always 0.
+*main - check the code
+*_purchar - 0 - 9
+*Return: Always 0.
 */
 void print_numbers(void)
 {
